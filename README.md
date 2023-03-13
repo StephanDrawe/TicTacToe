@@ -1,7 +1,7 @@
 # TicTacToe
 
 ## Description:
-Tic Tac Toe game built with React and JSX.
+Tic Tac Toe game built with React and JSX. Learning to manage state across parent and child component and working through the component lifecycles by mounting components on the DOM, updating them, and unmounting them from the DOM so they're no longer displayed.
 ## How to Run:
 1. Fork the repository in its entirety into your account.
 2. clone the repository to your machine.
