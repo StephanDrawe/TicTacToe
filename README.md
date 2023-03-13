@@ -5,7 +5,7 @@ Tic Tac Toe game built with React and JSX.
 ## How to Run:
 1. Fork the repository in its entirety into your account.
 2. clone the repository to your machine.
-3. Open the standalone.html file in the browser of your choosing.
+3. Open the index.html file in the browser of your choosing.
 4. Play the game!
 5. Refresh the page to start over.
 ## Roadmap of future improvements:
